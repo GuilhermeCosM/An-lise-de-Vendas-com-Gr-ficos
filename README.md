@@ -77,6 +77,3 @@ jupyter notebook
 ├── README.md
 └── analise_exploratoria.ipynb
 ```
-Faturamento ao longo do Tempo: exibe em um gráfico de linha a evolução do faturamento por data, permitindo observar tendências, sazonalidades e picos de vendas em determinados períodos.
-
- Essa análise ajuda a responder quando, onde e como o faturamento acontece.
